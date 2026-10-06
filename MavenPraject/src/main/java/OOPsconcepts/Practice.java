@@ -9,8 +9,8 @@ public class Practice {
 	        System.out.println("I am learning Automation Testing.");
 	        System.out.println("This is my GitHub practice code.");
 	        
-	        int a = 15;
-	        int b = 20;
+	        int a = 50;
+	        int b = 50;
 	        int sum = a + b;
 
 	        System.out.println("First number: " + a);
