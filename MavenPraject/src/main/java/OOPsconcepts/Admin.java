@@ -79,7 +79,7 @@ public class Admin {
 
         // USERNAME
         WebElement newUsername = wait1.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//label[normalize-space()='Username']/following::input[1]")));
-        newUsername.sendKeys("Paramesh12345");
+        newUsername.sendKeys("Paramesh1111");
         
         // PASSWORD
          WebElement newPassword = wait1.until(
